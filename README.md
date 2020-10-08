@@ -1,1 +1,1 @@
-# double-pendulum-lab
+# Double pendulum lab
