@@ -1,0 +1,30 @@
+body {
+    background-color: #212121;
+}
+
+.input-form__content-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 20%;
+    color: #6002EE;
+}
+
+.input-form__inputs-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+#input-form-alpha-1 {
+    margin-bottom: 12px;
+}
+
+#input-form-alpha-2 {
+    margin-bottom: 24px;
+}
+
+#input-form-submit {
+    border-color: #6002EE;
+    background-color: #6002EE;
+    color: #90EE02;
+}
